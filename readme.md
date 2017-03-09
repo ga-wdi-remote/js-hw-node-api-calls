@@ -17,6 +17,7 @@
   - For the first exercise, we'll be making a request to the Google homepage in Node. What this will return is the HTML elements that render when we visit the google homepage, except now it'll be shown in our terminal. 
 
 We should have returned something like the image below. This is just all the HTML elements that return when we access http://www.google.com.
+
 ![image](ss1.png)
 
 
